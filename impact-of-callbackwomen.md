@@ -1,21 +1,14 @@
 ---
 layout:   default
-title:    "Personal Stories"
+title:    "Impact of CallbackWomen"
+redirect_from:
+  - /personal-stories.html
+  - /testimonials.html
 ---
 
 {::options parse_block_html="true" /}
 
-<!--
-<div id="toc">
-
-## Contents
-*   [Jan Lehnardt](#jan-lehnardt), organizer of JSConfEU
-*   [Heidi Waterhouse](#heidi-waterhouse), speaker
-*   [Anonymous Woman](#anonymous-woman). speaker
-</div>
--->
-
-*How has CallbackWomen impacted you? [Email](callbackwomen@gmail.com) to share your story too.*
+*What impact has CallbackWomen had on you?  [Email](callbackwomen@gmail.com) with your story.*
 
 {::options toc_levels="2..3" /}
 * toc
@@ -24,6 +17,8 @@ title:    "Personal Stories"
 
 ### Heidi Waterhouse, speaker
 
+![Heidi Waterhouse speaking at RubyConf 2015](images/speakers-in-action/heidi-waterhouse-rubyconf-2015.jpg)
+
 "CallbackWomen has given me more than just a place to watch for friendly conferences, it's given me a community of other women who are **advocating for the same things I am: a spot at the speaker's podium, payment for my work, respect for my emotional labor**.
 
 When I go to a conference, my odds are good that I will find another member of our loose affiliation to talk to and connect with. I only started speaking three years ago, but even in that time, I feel like conferences have accepted more women speakers, and done more to support and promote speakers from under-represented groups."
@@ -31,10 +26,14 @@ When I go to a conference, my odds are good that I will find another member of o
 
 ### Lacey Williams Henschel, speaker & organizer
 
+![Lacey Williams Henschel](images/headshots/lacey-williams-henschel.jpg)
+
 "As a new speaker, CallbackWomen was instrumental in helping me find speaking opportunities at **conferences that would provide mentorship, help me financially, and support me** in other ways. As a conference organizer for DjangoCon US, I've relied on CallbackWomen to help us spread the word about our CFP and our commitment to **recruiting diverse and intersectional talks from new speakers**. CallbackWomen has helped my conference establish itself as a welcoming and friendly place for women speakers."
 
 
 ### Jan Lehnardt, organizer
+
+![Jan Lehnardt](images/headshots/jan-lehnardt.png)
 
 "I am a co-organiser of the yearly and immensely popular conference JSConf EU in Berlin, Germany. I am an advisor to other events in the JSConf series of events, including, but not limited to JSConf US, JSUnConf EU, JSConf Budapest, WebRebels, and JSConf Iceland. I’m also informally advising many other tech events, from small user groups to larger events. One of the aspects my advice is usually requested for is diversity and inclusion. I’m not an expert, but over the years have put in the time to read up on the topic from the now multitude of great online resources and by gaining first-hand experience running small and large events.
 

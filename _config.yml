@@ -12,3 +12,6 @@ sass:
     sass_dir: _sass
 gems:
   - jekyll-bootstrap-sass
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
