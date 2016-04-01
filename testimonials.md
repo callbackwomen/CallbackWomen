@@ -1,14 +1,13 @@
 ---
 layout:   default
-title:    "Impact of CallbackWomen"
+title:    "CallbackWomen's Impact"
 redirect_from:
   - /personal-stories.html
-  - /testimonials.html
 ---
 
 {::options parse_block_html="true" /}
 
-*What impact has CallbackWomen had on you?  [Email](callbackwomen@gmail.com) with your story.*
+*What impact has CallbackWomen had on you? [Email](callbackwomen@gmail.com) with your story.*
 
 {::options toc_levels="2..3" /}
 * toc
