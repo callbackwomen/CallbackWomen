@@ -47,4 +47,4 @@ An adaptation of the workshop's part 1, given instead as a standalone talk/Q&A.
 
 ## Speakers Panels
 
-Moderated discussion with a different panel of 5-6 women each time. Panelists have a range of conference speaking experience levels and roles. Previous panels have included high-demand keynoters, conference organizers, emerging speakers, etc. The panelists, along with several additional experienced speakers, give informal mentorship to breakout groups at the end of the evening.
+Moderated discussion with a different panel of 5-6 women each time. Panelists have a range of conference speaking experience levels and roles. Previous panels have included high-demand keynoters, conference organizers, emerging speakers, etc. The panelists, along with several additional experienced speakers, give informal mentorship to breakout groups at the end of the evening. CallbackWomen's YouTube channel includes [videos of two panel discussions from this series](https://www.youtube.com/watch?v=yE67bo7dmbY&list=PLVcL9dOXOL6mTuJY5uT4ayjQvLRSR2Llb).
