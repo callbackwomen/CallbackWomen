@@ -14,11 +14,11 @@ title:    "Resources on Speaker Pay"
 
 [Why I Won’t Be Speaking at the Grace Hopper Conference](https://medium.com/@gayle/why-i-won-t-be-speaking-at-grace-hopper-2071df640fc2#.td9r0nfok) by Gayle Laakmann McDowell
 
-[I’m Not Going to GHC, and Neither Should You.](https://blog.randi.io/2015/06/08/im-not-going-to-ghc-and-neither-should-you/) by Randi Lee Harper
+[I’m Not Going to GHC, and Neither Should You](https://blog.randi.io/2015/06/08/im-not-going-to-ghc-and-neither-should-you/) by Randi Lee Harper
 
 [The Consequences of Speakers-Pay Tech Conferences](https://medium.com/@rmurphey/the-consequences-of-speakers-pay-tech-conferences-b2ca9489d7f3#.60akruhw1) by Rebecca Murphey
 
-[PyCon: Everybody Pays](http://jessenoller.com/blog/2011/05/25/pycon-everybody-pays) by Jesse Noller (*[Hacker News thread](https://news.ycombinator.com/item?id=2583651)*)
+[PyCon: Everybody Pays](http://jessenoller.com/blog/2011/05/25/pycon-everybody-pays) by Jesse Noller ([Hacker News thread](https://news.ycombinator.com/item?id=2583651))
 
 
 ## Inequitable Distribution of Costs
