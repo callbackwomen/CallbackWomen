@@ -40,7 +40,7 @@ title:    "Resources on Speaker Pay"
 [How Expensive Is It To Go To GDC?](http://ramiismail.com/2016/01/how-much-does-it-cost-to-go-to-gdc/) by Rami Ismail
 
 
-## Conferences Organizers on How to Afford to Pay Speakers
+## Conferences Organizers on How They Afford to Pay Speakers
 
 [How To Organise Bath Ruby Conference](http://simonstarr.com/2015/10/11/how-to-organise-bath-ruby-conference/) by Simon Starr
 
