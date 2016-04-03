@@ -18,7 +18,7 @@ title:    "Resources on Speaker Pay"
 
 [The Consequences of Speakers-Pay Tech Conferences](https://medium.com/@rmurphey/the-consequences-of-speakers-pay-tech-conferences-b2ca9489d7f3#.60akruhw1) by Rebecca Murphey
 
-[PyCon: Everybody Pays](http://jessenoller.com/blog/2011/05/25/pycon-everybody-pays) by Jesse Noller (*[HN comment thread](https://news.ycombinator.com/item?id=2583651)*)
+[PyCon: Everybody Pays](http://jessenoller.com/blog/2011/05/25/pycon-everybody-pays) by Jesse Noller (*[Hacker News thread](https://news.ycombinator.com/item?id=2583651)*)
 
 
 ## Inequitable Distribution of Costs
@@ -40,16 +40,20 @@ title:    "Resources on Speaker Pay"
 [How Expensive Is It To Go To GDC?](http://ramiismail.com/2016/01/how-much-does-it-cost-to-go-to-gdc/) by Rami Ismail
 
 
-## How to Pay Tech Speakers
+## Conferences Organizers on How to Afford to Pay Speakers
 
 [How To Organise Bath Ruby Conference](http://simonstarr.com/2015/10/11/how-to-organise-bath-ruby-conference/) by Simon Starr
 
 
-## How to Get Paid as a Tech Speaker
+## How to Get Paid for Tech Conference Speaking
 
-[Getting Funding to Attend and Speak at IT Conferences: Creative Ways to Fund Your Participation at Tech Conferences… Even When Your Employer Won’t Pay](https://modelviewculture.com/pieces/getting-funding-to-attend-and-speak-at-it-conferences) by Adele Shakal
+[Creative Ways to Fund Your Participation at Tech Conferences…Even When Your Employer Won’t Pay](https://modelviewculture.com/pieces/getting-funding-to-attend-and-speak-at-it-conferences) by Adele Shakal
+
+[A Formula for Paying Speakers](https://web.archive.org/web/20150821080924/http://www.thenerdary.net/post/84544230452/a-formula-for-speaking-fees) by Jenn Lukas
 
 [On Getting Paid to Speak](http://geekfeminism.org/2015/01/22/on-getting-paid-to-speak/) by Geek Feminism
 
 [How To Get Paid To Speak](http://scottberkun.com/2012/how-to-get-paid-to-speak/) by Scott Berkun
+
+[How to Ask to Get Paid to Speak](http://seb.ly/2014/05/how-to-ask-to-get-paid-to-speak/) by Seb Lee-Delisle
 
