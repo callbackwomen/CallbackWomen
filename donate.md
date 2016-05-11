@@ -20,7 +20,3 @@ callbackwomen@gmail.com
 
 callbackwomen@gmail.com
 
-### Moonclerk
-[https://app.moonclerk.com/pay/2v9p7q9ekoh](https://app.moonclerk.com/pay/2v9p7q9ekoh)
-
-
