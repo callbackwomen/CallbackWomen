@@ -32,7 +32,7 @@ CallbackWomen focus is on serving organizers and speakers. The testimonials page
 
 ### Speakers
 
-* Amassing a curated list for them of 1,100+ conferences whose focus is on developers talking to developers
+* Amassing a curated list for them of 1,300+ conferences whose focus is on developers talking to developers
 * Finding for them ~90/mo speaking opportunities via those conferences' Calls for Proposals (CFPs)
 * Encouraging audiences to recommend highly qualified women 
 * Validating self-promotion of talks & ideas
