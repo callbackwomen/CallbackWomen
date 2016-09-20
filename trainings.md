@@ -32,7 +32,7 @@ It's a delight afterward to here from women announcing that they put in their fi
 
 #### Be a Workshop Sponsor!
 
-Expanding the workshop makes it possible to give attendees more individualized coaching on conference targeting and writing abstracts. These are crucial takeaways. **To sponsor a CallbackWomen workshop, ping via [Twitter](https://twitter.com/callbackwomen) or [email](callbackwomen@gmail.com).** 
+Expanding the workshop makes it possible to give attendees more individualized coaching on conference targeting and writing abstracts. These are crucial takeaways. **To sponsor a CallbackWomen workshop, ping via [Twitter](https://twitter.com/callbackwomen) or [email](mailto:callbackwomen@gmail.com).** 
 
 
 ## Meetups
@@ -41,7 +41,7 @@ Expanding the workshop makes it possible to give attendees more individualized c
 
 An adaptation of the workshop's part 1, given instead as a standalone talk/Q&A.
 
-* [Girl Develop It](www.meetup.com/Girl-Develop-It-Chicago-IL/events/184039012/) Chicago
+* [Girl Develop It](http://www.meetup.com/Girl-Develop-It-Chicago-IL/events/184039012/) Chicago
 * [RailsGirls](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/events/223571001/) Wellington
 * [PyLadies](http://www.meetup.com/PyLadies-ATX/events/225068177/) Austin
 
