@@ -30,17 +30,12 @@ Provides ongoing training, mentorships, practice sessions, and workshops on abst
 
 #### Women in IT - Speakers and Conference Presenters
 [doc](https://docs.google.com/document/d/1EfIECpv1qbLmzpkO-qoaYVee4WVIq4uUilcmfnJZkfc/edit) | 100+ speakers & conference presenters. Many from Europe. Twitter hashtag #ITWomen
+
 #### Technical Women Speak Too
-[blog](https://plus.google.com/communities/101818001236662563704) |
-Announces CFPs
+[blog](https://plus.google.com/communities/101818001236662563704) | Announces CFPs
 
 #### Systers
-[@systers_org](http://twitter.com/systers) |
-
-[website](http://anitaborg.org/initiatives/systers/)|
-
-[list maintainer](systers-keeper@systers.org) |
-3000+ members
+[@systers_org](http://twitter.com/systers) | [website](http://anitaborg.org/initiatives/systers/)| [list maintainer](systers-keeper@systers.org) | 3000+ members
 
 
 ---
@@ -56,7 +51,4 @@ Annual conference of more than 4000 programmers who are women. Hundreds of speak
 Unconference of geek women from a diverse array of technological fields, and women doing technology within non-technical fields.
 
 #### Write. Speak. Code.
-[@WriteSpeakCode](http://twitter.com/writespeakcode) |
-
-[email](mailto:info@writespeakcode)
-Professional development conference for women developers by women developers. Empowering ourselves and each other to become thought leaders, conference speakers, & open source contributors.
+[@WriteSpeakCode](http://twitter.com/writespeakcode) | [email](mailto:info@writespeakcode) | Professional development conference for women developers by women developers. Empowering ourselves and each other to become thought leaders, conference speakers, & open source contributors.
