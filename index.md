@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-## Mission
+## Our Mission
 
 The mission of [CallbackWomen](http://twitter.com/callbackwomen) is to radically expand gender diversity at the podium of professional programmers' conferences. It's about [**all** genders underrepresented in tech](#underrepresented), including non-binary, gender nonconforming, trans women, trans men, cis women, and more.
 
