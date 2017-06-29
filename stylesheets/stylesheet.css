@@ -60,10 +60,10 @@ body {
 }
 
 a {
-  color: #8B2635;
+  color: #CE374E;
 }
 a:hover {
-  color: #CE374E;
+  color: #8B2635;
 }
 
 header h1 {
@@ -86,7 +86,7 @@ header h2 {
   min-height: 595px;
 }
 
-.wrapper {max-width: 1200px;}
+.wrapper {max-width: 1200px; margin: 0 auto; position: relative;}
 
 .inner {
   width: 620px;
