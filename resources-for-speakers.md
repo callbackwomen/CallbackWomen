@@ -15,31 +15,29 @@ Peers. Do you crave having more? Feel isolated from others who do what you do? C
 
 Sense of connection to something bigger. Pride in being part of that community.
 
-i18n. Random chats w/devs from elsewhere -> unexpected insights re internationalization probs
+Random chats w/devs from elsewhere -> unexpected insights re internationalization probs
 
-have/hear different discussions than the same predictable stuff at the office.
+Have/hear different discussions than the same predictable stuff at the office.
 
 ### Why Speak
 
-"I would really love to discuss that w/you more…" Surprising opportunities come out of those.
+"I would really love to discuss that w/you more..." Surprising opportunities come out of those.
 
-ppl who you admire introduce self to you, recognize you as peer, become fan of your work too!  (including “well-known” ppl you thought would never talk to you!)
+People who you admire introduce self to you, recognize you as peer, become fan of your work too!  (including “well-known” people you thought would never talk to you!)
 
-challenge. Nudge self to learn, then share, something new b/c you've proposed to talk abt it.
+Challenge. Nudge self to learn, then share, something new b/c you've proposed to talk abt it.
 
-thought leadership. Speaking abt a topic can earn rep as someone whose thoughts on it matter.
+Thought leadership. Speaking abt a topic can earn rep as someone whose thoughts on it matter.
 
-i18n. Random chats w/devs from elsewhere -> unexpected insights re internationalization probs
+Random chats w/devs from elsewhere -> unexpected insights re internationalization probs
 
-facilitates introverts. Speakers get introduced to amazing ppl. Insight-filled conversations!
+Facilitates introverts. Speakers get introduced to amazing ppl. Insight-filled conversations!
 
-conversation. Opportunity to have interesting conversations that you can't have anywhere else
+Conversation. Opportunity to have interesting conversations that you can't have anywhere else
 
-network. Speakers get to expand network organically, and across range of locations & topics.
+Network. Speakers get to expand network organically, and across range of locations & topics.
 
-network. Speakers get to expand network organically, and across range of locations & topics.
-
-Free ticket. 
+Sometimes, you get a free ticket to a conference. 
 
 ---
 
