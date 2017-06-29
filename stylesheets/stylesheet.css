@@ -86,7 +86,11 @@ header h2 {
   min-height: 595px;
 }
 
-.wrapper {max-width: 1200px; margin: 0 auto; position: relative;}
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
 
 .inner {
   width: 620px;

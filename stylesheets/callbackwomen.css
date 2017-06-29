@@ -24,7 +24,6 @@ body
 #branding .logo-menu a#logo {
 	display: inline-block;
   width: 80%;
-  float: left;
 }
 #branding .logo-menu img {
   margin:0 auto;
@@ -39,8 +38,10 @@ body
 	width: 10%;
 	text-align: right;
   font-size: 20px;
-  position: relative;
+  position: absolute;
   vertical-align: top;
+  top:20%;
+  left:0;
 }
 
 #donate {
@@ -92,7 +93,7 @@ body
     width: 30% !important;
     padding-top: 1em;
     padding-right: 1em;
-    padding-top: 3.75em;
+    padding-top: 1em;
     padding-left: 1em;
 }
 
