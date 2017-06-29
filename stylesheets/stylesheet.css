@@ -330,21 +330,34 @@ dl dt {
 }
 
 footer {
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
+  background:#828489;
   margin-top: 40px;
   padding-top: 20px;
   padding-bottom: 30px;
   font-size: 13px;
-  color: #aaa;
+  color: #fff;
+  text-align: center;
 }
-
+footer p {line-height: 1.4em;}
+footer p a {color: #62A0D6; background:none; padding: 0;}
 footer a {
-  color: #666;
+  font-weight: bold; color:#fff; background-color: #62A0D6; padding:4px; display: inline-block;
 }
 footer a:hover {
-  color: #444;
+  background-color: #4D7EA8; color: #fff;
 }
-
+footer #navdonate a {
+  background-color: #CE374E;
+}
+footer #navdonate a:hover {
+  background-color: #F7425D;
+}
+footer ul {list-style: none; margin: 0 auto;}
+footer li {
+  display: inline-block; padding:0 4px;
+  margin: 0;
+}
+footer li a {padding:6px 12px;}
 /* MISC */
 .clearfix:after {
   clear: both;
@@ -357,6 +370,22 @@ footer a:hover {
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
+
+/* custom */
+
+.flex-row {
+  display: flex; /* or inline-flex */
+  flex-direction: row;
+  flex-wrap:wrap;
+  justify-content:space-between;
+  align-items: flex-start;
+}
+
+.flex-row .col {
+  margin: 0 auto; 
+  align-self: flex-start;
+}
+
 
 /* #Media Queries
 ================================================== */
@@ -393,12 +422,4 @@ footer a:hover {
 
 
 
-/* custom */
-
-nav .columns {
-column-count:2;
--moz-column-count:2;
--webkit-column-count: 2;
-column-width: 100px;
-}
 

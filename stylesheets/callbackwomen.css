@@ -160,13 +160,6 @@ nav
   color: #fff;
 }
 
-#nav div {width: 49%; display: inline-block;}
-#sidenav #nav div {width: 100%; display: block;}
-#nav ul
-{
-  font-size: 90%;
-}
-
 #nav ol, #nav p
 {
   margin-bottom: 0;
@@ -177,6 +170,7 @@ nav
 {
   list-style: none;
   padding-left: 0;
+  margin: 0;
 }
 
 .footnotes
