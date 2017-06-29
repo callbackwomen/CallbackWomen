@@ -14,7 +14,7 @@ CallbackWomen **remakes norms**. Since 2013, CallbackWomen's work of advocacy, e
 
 ## What We Do
 
-CallbackWomen focus is on serving organizers and speakers. The testimonials page shares individual stories of its impact, from the perspectives of [a long-time conference organizer](personal-stories.html) and [speakers](personal-stories.html#speakers).
+CallbackWomen focus is on serving organizers and speakers. The testimonials page shares individual stories of its impact, from the perspectives of [a long-time conference organizer](testimonials.html#jan-lehnardt-organizer) and [speakers](testimonials.html).
 
 ### Organizers
 
@@ -24,7 +24,7 @@ CallbackWomen focus is on serving organizers and speakers. The testimonials page
 * Advocating for innovative ways to increase diversity among attendees
 * Pushing back on assumptions about gender, experience, and qualifications
 * Amplifing their fellow conference organizers' diversity and diversity commitments, models, and successes
-* Educating them about the [Code of Conduct Pledge](http://twitter.com/cocpledge) [#cocpledge](https://twitter.com/search?q=cocpledge) impact on sponsorship, ticket sales, volunteerism, and speaker participation
+* Educating them about the [Code of Conduct Pledge](http://twitter.com/cocpledge) [(#cocpledge)](https://twitter.com/search?q=cocpledge) impact on sponsorship, ticket sales, volunteerism, and speaker participation
 * Supporting them in adopting codes of conduct (CoCs), and showing conference organizers handling CoC enforcement well
 * Normalizing expectations of gender diversity at the podium
 * Exposing them to highly qualified speakers who are women, as well as (*upon individuals' permission*) genderqueer & gender non-conforming
