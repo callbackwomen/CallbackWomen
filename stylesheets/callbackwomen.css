@@ -21,7 +21,7 @@ body
   position: absolute; top:0; left:0; right: 0;
   background:rgba(255,255,255,0.5);
 }
-#branding .logo-menu .logo {
+#branding .logo-menu a#logo {
 	display: block;
   width: 80%;
   float: left;
@@ -33,12 +33,21 @@ body
 }
 
 #branding .logo-menu #opennav {
-	color:#fff;
 	padding: 10px;
 	display: block;
 	float: right;
 	width: 10%;
 	text-align: right;
+  font-size: 20px;
+}
+
+#donate {
+  text-align: center;
+  margin: 0 auto;
+}
+#donate h3 {
+  color:#000;
+  margin-bottom: 0.5em;
 }
 
 #page-primary-content
@@ -101,14 +110,50 @@ nav
     font-size: 100%;
 }
 
-#sidenav {
-	display: none;
-	width: 230px;
-	position: absolute;
-	height: 100%;
-	background-color:#000;
-	color:#fff;
+/* The side navigation menu */
+.sidebarnav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0;
+    left: 0;
+    background-color: #2E3532; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
 }
+.sidebarnav h3 {color: #CE374E; padding: 8px 8px 8px 28px;}
+/* The navigation menu links */
+.sidebarnav a {
+    padding: 8px 8px 8px 28px;
+    text-decoration: none;
+    font-size: 16px;
+    color: #F1FAEE;
+    display: block;
+    transition: 0.3s
+}
+
+.sidebarnav li {list-style: none; margin: 0; padding: 0;}
+
+/* When you mouse over the navigation links, change their color */
+.sidebarnav a:hover, .offcanvas a:focus{
+    color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidebarnav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    color: #fff;
+}
+
+.sidebarnav #navdonate {background:#4357AD; text-transform: uppercase;}
+
+
 #nav div {width: 49%; display: inline-block;}
 #sidenav #nav div {width: 100%; display: block;}
 #nav ul
@@ -178,4 +223,10 @@ sub {
   /* Move the subscripted text down, but only
      half as far down as the superscript moved up */
   bottom: -0.25em;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
 }
