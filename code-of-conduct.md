@@ -7,7 +7,7 @@ All attendees, speakers, sponsors and volunteers at CallbackWomen events are req
 
 ## Need Help?
 
-Contact the event organizer who is identified on the event’s meetup page and introduced at the outset of the event. Written reports can be made anonymously at [https://callbackwomen.wufoo.com/forms/code-of-conduct-report/](https://callbackwomen.wufoo.com/forms/code-of-conduct-report/)
+Contact the event organizer who is identified on the event’s meetup page and introduced at the outset of the event. Written reports can be made anonymously at [our Conduct Report Form](https://callbackwomen.wufoo.com/forms/code-of-conduct-report/)
 
 ## The Quick Version
 
@@ -27,6 +27,6 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of event staff immediately. Event staff can be identified as they'll be wearing staff name badges. Written reports can be made anonymously at [https://callbackwomen.wufoo.com/forms/code-of-conduct-report/](https://callbackwomen.wufoo.com/forms/code-of-conduct-report/)
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of event staff immediately. Event staff can be identified as they'll be wearing staff name badges. Written reports can be made anonymously at [our Conduct Report Form](https://callbackwomen.wufoo.com/forms/code-of-conduct-report/).
 
 Event staff will be happy to help participants contact venue security or local law enforcement, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
