@@ -8,11 +8,11 @@ body
     max-width: 1200px;
 }
 
-#branding
-{
+#branding {
     text-align: center;
     margin: 0 0 1.5em 0;
     position: relative;
+    padding: 0;
 }
 #branding a {
   display: block; position: relative;
@@ -247,13 +247,15 @@ sub {
 
 /* Smaller than standard 960 (devices and browsers) */
 @media only screen and (max-width: 959px) {
-  #opennav {top: 0; font-size: 18px;}
+  #branding .logo-menu #opennav {top: 0; font-size: 18px;}
   #branding .logo-menu img {max-width: 500px;}
   #branding .quote h1 {font-size: 3.5rem;}
 }
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
+  #branding .logo-menu #opennav {top: 0; font-size: 16px;}
+  #branding .logo-menu img {max-width: 400px;}
   #page-primary-content {width: 100%; float: none;}
   #sidebar {width: 100% !important; float: none;}
   #sidebar #twitter-feed {text-align: center;}
@@ -276,10 +278,11 @@ sub {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {
+  #branding .logo-menu img {max-width: 250px;}
+  #branding .logo-menu {float:right; padding: 6px;}
+  #branding .quote {padding:10px;}
   #branding .quote h1 {
-    color: #fff;
-    text-shadow: none;
-    font-size: 1.9rem;
+    font-size: 1.7rem;
   }
 }
 
