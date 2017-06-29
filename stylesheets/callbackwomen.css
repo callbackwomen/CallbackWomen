@@ -41,13 +41,18 @@ body
   left:0;
 }
 #branding .quote {
-  font-size: 4em;
   position:absolute; font-weight:bold;
   color:#62A0D6;
-  margin: 0 auto; padding:10px 0;
+  margin: 0 auto;
+  padding:10px 0;
   left:0;
   right: 0;
   top: 40%;
+}
+#branding .quote h1 {
+  font-size: 4rem;
+  font-family: 'Poppins', Century Gothic, sans-serif;
+  text-shadow: 0px 0px 40px #0d0d0d;
 }
 #donate {
   text-align: center;
