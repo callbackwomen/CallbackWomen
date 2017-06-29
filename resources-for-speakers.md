@@ -13,8 +13,8 @@ It's hard to find opportunities to speak at programming conferences. For people 
 
 + **Peers**. Do you crave having more? Feel isolated from others who do what you do? Conferences connect people. You carry that sense of connectedness back home with you.
 + **Sense of connection to something bigger**. Pride in being part of that community.
-**Random chats w/devs from elsewhere**. That leads to unexpected insights re internationalization probs
-**Have/hear different discussions** than the same predictable stuff at the office.
++ **Random chats w/devs from elsewhere**. That leads to unexpected insights re internationalization probs
++ **Have/hear different discussions** than the same predictable stuff at the office.
 
 ### Why Speak
 
