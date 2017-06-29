@@ -50,7 +50,7 @@ CallbackWomen is about every person whose gender is underrepresented in tech. `W
 Being non-consensually positioned in a context called `*Women` implictly misgenders a gender non-binary person or a trans man. CallbackWomen enthusiastically promotes the work of speakers who are gender non-binary and speakers who are trans men, *if the speaker has given personal consent to*.
 
 
-[^1]: More info: http://itspronouncedmetrosexual.com/2013/01/a-comprehensive-list-of-lgbtq-term-definitions/
+[^1]: More info on [It's pronounced metrosexual](http://itspronouncedmetrosexual.com/2013/01/a-comprehensive-list-of-lgbtq-term-definitions/)
 
 
 
