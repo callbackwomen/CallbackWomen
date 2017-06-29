@@ -3,9 +3,9 @@ body
     font-size: .95em;
 }
 
-.inner
-{
-    width: 75%;
+.inner {
+    width: 90%;
+    max-width: 1200px;
 }
 
 #branding
@@ -239,6 +239,48 @@ sub {
   /* Move the subscripted text down, but only
      half as far down as the superscript moved up */
   bottom: -0.25em;
+}
+
+
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+  #opennav {top: 0; font-size: 18px;}
+  #branding .logo-menu img {max-width: 500px;}
+  #branding .quote h1 {font-size: 3.5rem;}
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+  #page-primary-content {width: 100%; float: none;}
+  #sidebar {width: 100% !important; float: none;}
+  #sidebar #twitter-feed {text-align: center;}
+  #branding .quote {
+    background-color: #62A0D6;
+    margin: 0;
+    bottom: 0;
+    top: auto;
+    padding: 16px 10px;
+  }
+  #branding .quote h1 {
+    color: #fff;
+    text-shadow: none;
+    font-size: 2.5rem;
+  }
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+  #branding .quote h1 {
+    color: #fff;
+    text-shadow: none;
+    font-size: 1.9rem;
+  }
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */

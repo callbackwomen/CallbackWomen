@@ -358,7 +358,7 @@ footer #navdonate a:hover {
 footer ul {list-style: none; margin: 0 auto;}
 footer li {
   display: inline-block; padding:0 4px;
-  margin: 0;
+  margin: 0 0 10px 0;
 }
 footer li a {padding:6px 12px;}
 /* MISC */
@@ -394,7 +394,9 @@ footer li a {padding:6px 12px;}
 ================================================== */
 
 /* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) {}
+@media only screen and (max-width: 959px) {
+
+}
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {}
@@ -411,10 +413,12 @@ footer li a {padding:6px 12px;}
   #download-zip, #download-tar-gz {
     display: none;
   }
-  .inner {
-    width: 94%;
-    margin: 0 auto;
-  }
+
+  .flex-row .col {width: 48%; margin: 0 auto; text-align: center;}
+}
+
+@media only screen and (max-width: 600px) {
+  .flex-row .col {width: 100%;}
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
