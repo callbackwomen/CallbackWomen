@@ -152,7 +152,11 @@ nav
     font-size: 36px;
     margin-left: 50px;
     color: #fff;
+    padding: 0;
+    margin: 0;
 }
+
+.sidebarnav .closebtn:hover {background: transparent;}
 
 .sidebarnav #navdonate {
   background:#CE374E;
