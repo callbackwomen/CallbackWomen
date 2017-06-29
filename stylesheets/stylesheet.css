@@ -23,6 +23,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
+body {width: 100%;}
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -46,6 +47,7 @@ table {
 	border-spacing: 0;
 }
 
+img {max-width: 100%; height: auto;}
 /************************************
 *** LAYOUT STYLES ***
 *************************************/
@@ -62,11 +64,6 @@ a {
 }
 a:hover {
   color: #c5000c;
-}
-
-header {
-  padding-top: 35px;
-  padding-bottom: 25px;
 }
 
 header h1 {
@@ -156,13 +153,15 @@ button.donate {
 	background-color: blue;
 	color: #fff;
 	border:1px solid blue;
-	-moz-border-radius: 8px;
-	-webkit-border-radius: 8px;                     
-	border-radius: 8px;
-	transition: background-color 0.3s ease;
+	-moz-border-radius: 12px;
+	-webkit-border-radius: 12px;                     
+	border-radius: 12px;
+	transition: background-color 0.3s ease, border 0.3s ease;
+  font-size: 1.5rem;
 }
 button.donate:hover {
 	background-color: red;
+  border:1px solid red;
 }
 
 #download-zip span {
@@ -290,6 +289,7 @@ h6 {
 p {
   font-weight: 300;
   margin-bottom: 20px;
+  font-size: 1.1rem;
 }
  
 a {
@@ -308,8 +308,12 @@ blockquote {
 }
 
 ul li {
-  list-style: disc inside;
-  padding-left: 20px;
+  list-style: disc;
+  margin-left: 40px;
+  font-weight: 300;
+  font-size: 1.1rem;
+  line-height: 1.5em;
+  padding-bottom: 2px;
 }
 
 ol li {

@@ -11,10 +11,34 @@ body
 #branding
 {
     text-align: center;
-    border: 1px solid grey;
-    background-color: white;
-    margin: 2em 0 2em 0;
-    padding: 2.5em;
+    margin: 0 0 1.5em 0;
+    position: relative;
+}
+#branding a {
+  display: block; position: relative;
+}
+#branding .logo-menu {
+  position: absolute; top:0; left:0; right: 0;
+  background:rgba(255,255,255,0.5);
+}
+#branding .logo-menu .logo {
+	display: block;
+  width: 80%;
+  float: left;
+}
+#branding .logo-menu img {
+  margin:0 auto;
+  max-width: 1000px;
+  height: auto;
+}
+
+#branding .logo-menu #opennav {
+	color:#fff;
+	padding: 10px;
+	display: block;
+	float: right;
+	width: 10%;
+	text-align: right;
 }
 
 #page-primary-content
@@ -77,28 +101,20 @@ nav
     font-size: 100%;
 }
 
-#nav table
-{
-  border-collapse: collapse;
+#sidenav {
+	display: none;
+	width: 230px;
+	position: absolute;
+	height: 100%;
+	background-color:#000;
+	color:#fff;
 }
-
-#nav table, #nav tr, #nav td
-{
-  border: none;
-}
-
+#nav div {width: 49%; display: inline-block;}
+#sidenav #nav div {width: 100%; display: block;}
 #nav ul
 {
   font-size: 90%;
 }
-
-#nav td 
-{
-  width: 50%;
-  text-align: left;
-  vertical-align: top;
-}
-
 
 #nav ol, #nav p
 {
