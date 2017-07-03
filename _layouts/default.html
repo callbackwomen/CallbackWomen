@@ -4,11 +4,12 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href="https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css">
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville|Poppins" rel="stylesheet">
+    <link rel='stylesheet' id='fontawesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=1.0' type='text/css' media='all' />
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css?v=10000003" media="screen" />
     <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
 <!--    <link rel="stylesheet" type="text/css" href="stylesheets/twitter-widget.css" media="screen" />-->
-    <link rel="stylesheet" type="text/css" href="stylesheets/callbackwomen.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/callbackwomen.css?v=10000005" media="screen" />
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -17,44 +18,61 @@
 </head>
 
 <body>
-    <div id="container">
-        <div class="inner">
-            <section id="main_content">
-                <header id="branding">
-                    <a href="index.html">
-                        <img id="logo" alt="CallbackWomen" title="CallbackWomen" src="images/callbackwomen-logo-wide-large.png">
-                        </a>
-                </header>
+	<div id="wrapper">
+		<div id="sidenav" class="sidebarnav">
+			 <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+			 {% include sidenavigation.html %}
+		</div>
+	    <div id="main">
+		    <header id="branding">
+                <div class="logo-menu">
+                	<div class="wrapper">
+                	<div id="opennav"><i class="fa fa-align-justify fa-2x" aria-hidden="true" onclick="openNav()"></i></div>
+                	<a href="index.html" id="logo"><img  alt="CallbackWomen" title="CallbackWomen" src="images/callbackwomen-logo-white.png"></a>
+                	</div>
+                </div>
+                <div class="quote">
+                	<div class="wrapper">
+                	<h1>Your voice matters.</h1>
+                	</div>
+                </div>
 
-                <article id="page-primary-content">
-                    <h1>
-                    {{ page.title }}
-                    </h1>
-                    
-                    {{ content }}
-                </article>
-
-                <aside id="sidebar">
-                    <section id="donate">
-                        <p align="center">
-                            <a href="donate.html"><img alt="Donate" src="https://s3.amazonaws.com/moonclerk/buttons/donate.png" /></a>
-                        </p>
-                    </section>
-
-                    <section id="twitter-feed">
-<!--
-                        <a href="http://twitter.com/callbackwomen"><strong>Follow @callbackwomen</strong></a>
-                            <img src="images/icons/twitter-24.png"
--->
-                        {% include twitter-feed.html %}
-                    </section>
-
-                </aside>
+	        </header>
+	        <div class="inner">
+	            <section id="main_content">
+	                <article id="page-primary-content">
+	                    <h1>
+	                    {{ page.title }}
+	                    </h1>
+	                    
+	                    {{ content }}
+	                </article>
+	
+	                <aside id="sidebar">
+	                    <section id="donate">
+	                    	<h3>Help sustain our work.</h3>
+	                        <p>
+	                            <a href="donate.html"><button id="donate-button" class="donate">Donate</button></a>
+	                        </p>
+	                    </section>
+	
+	                    <section id="twitter-feed">
+	<!--
+	                        <a href="http://twitter.com/callbackwomen"><strong>Follow @callbackwomen</strong></a>
+	                            <img src="images/icons/twitter-24.png"
+	-->
+	                        {% include twitter-feed.html %}
+	                    </section>
+	
+	                </aside>
                     <nav>
                         <hr/> {% include navigation.html %}
                     </nav>
-            </section>
-        </div>
-    </div>
+	            </section>
+	        </div>
+	        {% include footer.html %}
+	    </div>
+	    <script type="text/javascript" src="/javascript/main.js"></script>
+	</div><!-- end #wrapper -->
 </body>
 </html>

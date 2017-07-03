@@ -3,18 +3,65 @@ body
     font-size: .95em;
 }
 
-.inner
-{
-    width: 75%;
+.inner {
+    width: 90%;
+    max-width: 1200px;
 }
 
-#branding
-{
+#branding {
     text-align: center;
-    border: 1px solid grey;
-    background-color: white;
-    margin: 2em 0 2em 0;
-    padding: 2.5em;
+    margin: 0 0 1.5em 0;
+    position: relative;
+    padding: 0;
+    background-color: #62A0D6;
+}
+#branding a {
+  display: block; position: relative;
+}
+#branding .logo-menu {
+  /*position: absolute; top:0; left:0; right: 0;*/
+  background:rgba(255,255,255,0.2);
+  color:#fff;
+}
+#branding .logo-menu a#logo {
+	display: inline-block;
+	padding: 5px 0;
+}
+#branding .logo-menu img {
+  margin:0 auto;
+  max-width: 400px;
+  height: auto;
+  width: inherit;
+}
+
+#branding .logo-menu #opennav {
+	padding: 10px 16px;
+	display: inline-block;
+  font-size: 18px;
+  position: absolute;
+  vertical-align: top;
+  top:13%;
+  left:0;
+}
+#branding .quote {
+  font-weight:bold;
+  margin: 0 auto;
+  padding:3em 0;
+  left:0;
+  right: 0;
+}
+#branding .quote h1 {
+  font-size: 4rem;
+  font-family: 'Poppins', Century Gothic, sans-serif;
+  color:#fff;
+}
+#donate {
+  text-align: center;
+  margin: 0 auto;
+}
+#donate h3 {
+  color:#000;
+  margin-bottom: 0.5em;
 }
 
 #page-primary-content
@@ -57,7 +104,7 @@ body
     width: 30% !important;
     padding-top: 1em;
     padding-right: 1em;
-    padding-top: 3.75em;
+    padding-top: 1em;
     padding-left: 1em;
 }
 
@@ -77,28 +124,58 @@ nav
     font-size: 100%;
 }
 
-#nav table
-{
-  border-collapse: collapse;
+/* The side navigation menu */
+.sidebarnav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0;
+    left: 0;
+    background-color: #0C0C0C; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+.sidebarnav h3 {color: #CE374E; padding: 8px 8px 8px 28px;}
+/* The navigation menu links */
+.sidebarnav a {
+    padding: 8px 8px 8px 28px;
+    text-decoration: none;
+    font-size: 16px;
+    color: #fff;
+    display: block;
+    transition: 0.3s
 }
 
-#nav table, #nav tr, #nav td
-{
-  border: none;
+.sidebarnav li {list-style: none; margin: 0; padding: 0;}
+
+/* When you mouse over the navigation links, change their color */
+.sidebarnav a:hover, .offcanvas a:focus{
+    background-color: #4D7EA8;
+    color:#fff;
 }
 
-#nav ul
-{
-  font-size: 90%;
+/* Position and style the close button (top right corner) */
+.sidebarnav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    color: #fff;
+    padding: 0;
+    margin: 0;
 }
 
-#nav td 
-{
-  width: 50%;
-  text-align: left;
-  vertical-align: top;
-}
+.sidebarnav .closebtn:hover {background: transparent;}
 
+.sidebarnav #navdonate {
+  background:#CE374E;
+  text-transform: uppercase;}
+.sidebarnav #navdonate a {
+  color: #fff;
+}
 
 #nav ol, #nav p
 {
@@ -110,6 +187,7 @@ nav
 {
   list-style: none;
   padding-left: 0;
+  margin: 0;
 }
 
 .footnotes
@@ -130,7 +208,7 @@ nav
 
 h2, h3, h4, h5, h6
 {
-    margin-bottom: 0;
+    margin-bottom: 0.4em;
 }
 
 /*superscripts*/
@@ -162,4 +240,55 @@ sub {
   /* Move the subscripted text down, but only
      half as far down as the superscript moved up */
   bottom: -0.25em;
+}
+
+
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+  #branding .logo-menu #opennav {top: 0; font-size: 18px;}
+  #branding .quote h1 {font-size: 3.5rem;}
+  #branding .logo-menu img {max-width: 280px;}
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+  #branding .logo-menu #opennav {top: 0; font-size: 16px;}
+  #branding .logo-menu img {max-width: 400px;}
+  #page-primary-content {width: 100%; float: none;}
+  #sidebar {width: 100% !important; float: none;}
+  #sidebar #twitter-feed {text-align: center;}
+  #branding .quote {
+    background-color: #62A0D6;
+    margin: 0;
+    bottom: 0;
+    top: auto;
+    padding: 16px 10px;
+  }
+  #branding .quote h1 {
+    color: #fff;
+    text-shadow: none;
+    font-size: 2.5rem;
+  }
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+  #branding .logo-menu img {max-width: 200px;}
+  #branding .logo-menu {float:right; padding: 6px;}
+  #branding .quote {padding:10px;}
+  #branding .quote h1 {
+    font-size: 1.7rem;
+  }
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
 }
