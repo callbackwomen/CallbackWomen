@@ -13,20 +13,23 @@ body
     margin: 0 0 1.5em 0;
     position: relative;
     padding: 0;
+    background-color: #62A0D6;
 }
 #branding a {
   display: block; position: relative;
 }
 #branding .logo-menu {
-  position: absolute; top:0; left:0; right: 0;
-  background:rgba(255,255,255,0.5);
+  /*position: absolute; top:0; left:0; right: 0;*/
+  background:rgba(255,255,255,0.2);
+  color:#fff;
 }
 #branding .logo-menu a#logo {
 	display: inline-block;
+	padding: 5px 0;
 }
 #branding .logo-menu img {
   margin:0 auto;
-  max-width: 600px;
+  max-width: 400px;
   height: auto;
   width: inherit;
 }
@@ -34,25 +37,23 @@ body
 #branding .logo-menu #opennav {
 	padding: 10px 16px;
 	display: inline-block;
-  font-size: 20px;
+  font-size: 18px;
   position: absolute;
   vertical-align: top;
-  top:20%;
+  top:13%;
   left:0;
 }
 #branding .quote {
-  position:absolute; font-weight:bold;
+  font-weight:bold;
   margin: 0 auto;
-  padding:10px 0;
+  padding:3em 0;
   left:0;
   right: 0;
-  top: 40%;
 }
 #branding .quote h1 {
   font-size: 4rem;
   font-family: 'Poppins', Century Gothic, sans-serif;
-  text-shadow: 0px 0px 40px #0d0d0d;
-  color:#C7E3F9;
+  color:#fff;
 }
 #donate {
   text-align: center;
@@ -248,8 +249,8 @@ sub {
 /* Smaller than standard 960 (devices and browsers) */
 @media only screen and (max-width: 959px) {
   #branding .logo-menu #opennav {top: 0; font-size: 18px;}
-  #branding .logo-menu img {max-width: 500px;}
   #branding .quote h1 {font-size: 3.5rem;}
+  #branding .logo-menu img {max-width: 280px;}
 }
 
 /* All Mobile Sizes (devices and browser) */
@@ -278,7 +279,7 @@ sub {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {
-  #branding .logo-menu img {max-width: 250px;}
+  #branding .logo-menu img {max-width: 200px;}
   #branding .logo-menu {float:right; padding: 6px;}
   #branding .quote {padding:10px;}
   #branding .quote h1 {
