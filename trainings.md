@@ -41,9 +41,15 @@ Expanding the workshop makes it possible to give attendees more individualized c
 
 An adaptation of the workshop's part 1, given instead as a standalone talk/Q&A.
 
-* [Girl Develop It](www.meetup.com/Girl-Develop-It-Chicago-IL/events/184039012/) Chicago
-* [RailsGirls](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/events/223571001/) Wellington
-* [PyLadies](http://www.meetup.com/PyLadies-ATX/events/225068177/) Austin
+* Carbon 5, *Los Angeles*
+* DevBootcamp, *San Francisco*
+* Girl Develop It, *Chicago*
+* Girl Geek Dinners, *Wellington, New Zealand*
+* Ladies of Code, *Paris*
+* PyLadies, *Austin*
+* RailsGirls, *Wellington, New Zealand*
+* Women Who Code (with guests Lena Reinhard and Dajana Guenther *Berlin*
+* Women Who Code (with co-presenter Michele Titolo), *San Francisco, CA*
 
 ## Speakers Panels
 
